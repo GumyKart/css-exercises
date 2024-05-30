@@ -1,0 +1,14 @@
+.butt,.butter{
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+}
+
+.butt{
+    background-color: black;
+    font-weight: bold;
+    color:white;
+}
+
+.butter{
+    background-color: yellow;   
+}
